@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    vertical-align: baseline;
+}
+body {
+    text-align: center;
+    font-family:sans-serif;
+    background-color: black;
+    color:white
+
+}
+
+.navbar a {
+    display: block;
+    padding: 23px 20px;
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+.navbar a:hover {
+    background: rgb(43, 42, 42) ;
+}
+.form {
+    margin-top: 10%;
+}
+h2 {
+    color: white;
+    font-size: 80px;
+}
